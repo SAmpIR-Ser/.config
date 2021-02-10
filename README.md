@@ -2,7 +2,7 @@
 
 [中文版](./README_cn.md)
 
-This config folder includes `i3` and `alacritty` config, however, I'm using [dwm](https://github.com/theniceboy/dwm) and [st](https://github.com/theniceboy/st) now.
+This config folder includes `i3`config, however, I'm using [dwm](https://github.com/theniceboy/dwm) and [st](https://github.com/theniceboy/st) now.
 
 BTW, my scripts are in [this repo](https://github.com/theniceboy/scripts).
 
@@ -55,10 +55,7 @@ LC_TIME=en_US.UTF-8
 ```
 
 #### My Font
-I use the `Source Code Pro` font and `nerd-fonts-source-code-pro`.
 
-#### About Noto
-Just install `noto-fonts` (not `-all`). It's already bloated. Check `/usr/share/fonts/noto`
 
 #### Emoji
 ```
